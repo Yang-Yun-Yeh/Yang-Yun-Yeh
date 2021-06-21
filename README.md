@@ -1,6 +1,7 @@
 [Please visit my homepage](https://Yang-Yun-Yeh.github.io/)
 ***
 *Nice to meet you :D*
+***
 個人訊息:
 ***
 姓名: Yang-Yun-Yeh
@@ -47,6 +48,7 @@ Phone: 0912345678
 ```
 
 模擬雙星運動的結果:
+![simulation](./img/simulation.png)
  ***
 2.用Python模擬實驗project(coupled-driven oscillation):
 在做實驗專題時，我用迴圈和6個RK4(一種數值方法)(∵有6個變數要考慮)去模擬兩個單擺中間接彈簧外加一顆步徑馬達施加週期性外力的運動狀態。經過不斷嘗試和debug，終於畫出兩個單擺θ_2-θ_1的Lissajous plot。
@@ -117,3 +119,4 @@ while t [i] <= 40:
     i += 1
 ```
 把array中的數值畫成Lissajous plot:
+![Lissajous](./img/Lissajous.png)
