@@ -119,4 +119,5 @@ while t [i] <= 40:
     i += 1
 ```
 把array中的數值畫成Lissajous plot:
+***
 ![Lissajous](./img/Lissajous.png)
